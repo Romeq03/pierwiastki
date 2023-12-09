@@ -1,0 +1,14 @@
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/bin/Debug/net8.0/pierwiastki_rownania_kwadratowego
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/bin/Debug/net8.0/pierwiastki_rownania_kwadratowego.deps.json
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/bin/Debug/net8.0/pierwiastki_rownania_kwadratowego.runtimeconfig.json
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/bin/Debug/net8.0/pierwiastki_rownania_kwadratowego.dll
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/bin/Debug/net8.0/pierwiastki_rownania_kwadratowego.pdb
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/obj/Debug/net8.0/pierwiastki_rownania_kwadratowego.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/obj/Debug/net8.0/pierwiastki_rownania_kwadratowego.AssemblyInfoInputs.cache
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/obj/Debug/net8.0/pierwiastki_rownania_kwadratowego.AssemblyInfo.cs
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/obj/Debug/net8.0/pierwiastki_rownania_kwadratowego.csproj.CoreCompileInputs.cache
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/obj/Debug/net8.0/pierwiastki_rownania_kwadratowego.dll
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/obj/Debug/net8.0/refint/pierwiastki_rownania_kwadratowego.dll
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/obj/Debug/net8.0/pierwiastki_rownania_kwadratowego.pdb
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/obj/Debug/net8.0/pierwiastki_rownania_kwadratowego.genruntimeconfig.cache
+/Users/bartek/Projects/pierwiastki/pierwiastki_rownania_kwadratowego/obj/Debug/net8.0/ref/pierwiastki_rownania_kwadratowego.dll
